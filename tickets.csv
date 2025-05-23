@@ -1,0 +1,10 @@
+Ticket,Opened,Requestor,body,Severity,Assigned to,Priority,resolution,Closed
+1,2018-11-07,Barry Smith,Setup up camera in packing,Low,L,low,On hold until Window 10 installed,2018-11-27
+2,2018-11-08,Barry Smith,Upgrade PC to windows 10,Low,L,low,Successful,2018-11-09
+3,2018-11-08,Dave Davies,Add 20 new locations to stock,Low,L,low,Added,2018-11-08
+5,2018-11-08,Barry Smith,Requested MS Project installed,Low,L,low,Installed MS Project,2018-11-09
+6,2018-11-09,Joe Blogs,Mailbox full,Low,L,low,Increase limit to 20gb,2018-11-09
+7,2018-11-09,Barry Smith,New Starter Request,Low,S,low,Added to AD and Exchange Mailbox,2018-11-09
+8,2018-11-09,Andy Andrews,Setup new user on db,Low,S,low,added to database,2018-11-09
+9,2018-11-09,Barry Smith,Setup new PC for warehouse,Low,S,low,PC refurbished and setup,2018-11-09
+10,2018-11-09,Barry Smith,Setup CCTV viewer on PC,Low,L,low, installed but needs admin to run,2018-11-09

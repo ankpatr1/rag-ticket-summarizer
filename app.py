@@ -1,15 +1,21 @@
 import streamlit as st
+import os
 import pandas as pd
 import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 from transformers import pipeline
+import streamlit as st
+api_key = st.secrets["openai"]["api_key"]
 
 # Load tickets
 @st.cache_data
 def load_tickets(path="tickets.csv"):
     df = pd.read_csv(path)
     return df
+from langchain_community.embeddings import OpenAIEmbeddings
+
+embedder = OpenAIEmbeddings(openai_api_key=api_key)
 
 # Build engine
 class RAGTicketEngine:

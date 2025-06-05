@@ -91,8 +91,6 @@ streamlit run src/streamlit_app.py
 ---
 
 ## ✍️ Author
-
-**Abhisek Patra**
 🔗 [Hugging Face Profile](https://huggingface.co/apatra06)
 
 

@@ -86,11 +86,6 @@ streamlit run src/streamlit_app.py
 > **Output:**
 > "Customer was guided through profile settings to update phone number and verify with OTP."
 
----
-
 ## ✍️ Author
 🔗 [Hugging Face Profile](https://huggingface.co/apatra06)
 
-
-
->>>>>>> 9fce9f3 ( added)

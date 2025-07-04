@@ -1,13 +1,13 @@
 
-                                                     **Implementing using Hugging Face Space**
+                                         **Implementing using Hugging Face Space**
    
-                                  **RAG-based Ticket Summarizer** : https://huggingface.co/spaces/apatra06/rag-ticket-summarizer
+                     **RAG-based Ticket Summarizer** : https://huggingface.co/spaces/apatra06/rag-ticket-summarizer
 
-                                         If you need code Kindly click the above link and go to the code base 
+                                  If you need code Kindly click the above link and go to the code base 
 
-                                   **Note**: This projects i ll update to upgrade the Rag ticket summarizer application 
+                           **Note**: This projects i ll update to upgrade the Rag ticket summarizer application 
 
-                                                     # 🧠 RAG-based Ticket Summarizer
+                                            # 🧠 RAG-based Ticket Summarizer
 
 A **Retrieval-Augmented Generation (RAG)** application for summarizing customer support tickets. This tool helps customer support teams quickly understand issue context and resolution history using intelligent semantic search + summarization.
 
